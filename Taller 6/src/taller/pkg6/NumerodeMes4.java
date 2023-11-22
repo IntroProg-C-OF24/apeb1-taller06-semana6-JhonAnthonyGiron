@@ -23,9 +23,6 @@ public class NumerodeMes4 {
             case 10 -> System.out.println("Octubre");
             case 11 -> System.out.println("Noviembre");
             case 12 -> System.out.println("Diciembre");
-        }         
-            
-            
-        }
-        
-    }
+        }                            
+    }      
+}
